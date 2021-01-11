@@ -1,1 +1,1 @@
-"# bri-people-analytic" 
+"# bri-hackathon" 
